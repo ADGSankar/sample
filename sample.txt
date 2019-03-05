@@ -1,5 +1,3 @@
 hello sankar 
-this is a  file that is going to uploded into github
-hello brooo
-hello sankar
-this is a moto
+this is a sample file that is going to uploded into github
+#######
